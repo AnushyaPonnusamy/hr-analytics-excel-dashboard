@@ -44,7 +44,7 @@ To analyze employee attrition and identify patterns based on department, job rol
 ## 📸 Screenshots
 
 ### Raw Data
-![Raw](_raw_data.png)
+![Raw](_https://github.com/AnushyaPonnusamy/hr-analytics-excel-dashboard/blob/main/raw-data.png)
 
 ### KPI Calculations
 ![KPI](_kpi_sheet.png)
