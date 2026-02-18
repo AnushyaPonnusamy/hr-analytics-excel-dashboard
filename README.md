@@ -50,11 +50,11 @@ To analyze employee attrition and identify patterns based on department, job rol
 ![KPI](kpi-sheet.png)
 
 ### Pivot Analysis
-![Pivot](_pivot-analysis.png
+![Pivot](pivot-analysis.png
 )
 
 ### Final Dashboard
-![Dashboard](_dashboard-excel.png)
+![Dashboard](dashboard-excel.png)
 
 ---
 
